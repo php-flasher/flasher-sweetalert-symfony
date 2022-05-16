@@ -1,5 +1,5 @@
 {
-    "name": "php-flasher/flasher-sweetalert-symfony",
+    "name": "nitro2010/flasher-sweetalert-symfony",
     "type": "symfony-bundle",
     "description": "PHP Flasher Symfony adapter for Sweet Alert 2",
     "keywords": ["yoeunes", "notify", "php", "laravel", "symfony", "Lumen", "notifications", "messages", "alerts", "pnotify", "sweetalert ", "toastr", "bundle", "flex"],
@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.3",
         "php-flasher/flasher-symfony": "^1.0",
-        "php-flasher/flasher-sweetalert": "^1.0"
+        "php-flasher/flasher-sweet-alert": "^1.0"
     },
     "autoload": {
         "psr-4": {
